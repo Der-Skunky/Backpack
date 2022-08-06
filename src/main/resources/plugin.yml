@@ -1,0 +1,6 @@
+name: Backpack
+version: '${project.version}'
+main: me.skunky.main.Main
+api-version: 1.19
+authors: [ Skunky ]
+description: Add Backpacks to your Server
